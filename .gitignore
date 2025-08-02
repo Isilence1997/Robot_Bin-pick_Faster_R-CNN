@@ -1,0 +1,13 @@
+实验结果.zip
+硕士毕业论文.zip
+专利2
+工作整理
+Simple-RFCN-PyTorch-master.zip
+light_head_rcnn-master.rar
+# 太大 Large files
+RFCN-PyTorch/checkPoints/*.pth
+RFCN-PyTorch/checkPoints/*.pth
+RFCN-PyTorch/weights/*.pth
+Train_Record
+Train_Result/*.png
+Exp_Result/*.jpg
